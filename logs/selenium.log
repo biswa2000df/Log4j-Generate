@@ -1,0 +1,18 @@
+10:08:48.489 [main] INFO  Loggertest.Test1 - WebDriver started
+10:08:48.494 [main] INFO  Loggertest.Test1 - Selenium actions completed
+10:08:48.495 [main] INFO  Loggertest.Test1 - WebDriver closed
+10:08:48.495 [main] INFO  Loggertest.Test1 - WebDriver started  1
+10:08:48.495 [main] INFO  Loggertest.Test1 - Selenium actions completed  1
+10:08:48.495 [main] INFO  Loggertest.Test1 - WebDriver closed  1
+10:09:04.646 [main] INFO  Loggertest.Test1 - WebDriver started
+10:09:04.652 [main] INFO  Loggertest.Test1 - Selenium actions completed
+10:09:04.652 [main] INFO  Loggertest.Test1 - WebDriver closed
+10:09:04.652 [main] INFO  Loggertest.Test1 - WebDriver started  1
+10:09:04.652 [main] INFO  Loggertest.Test1 - Selenium actions completed  1
+10:09:04.672 [main] INFO  Loggertest.Test1 - WebDriver closed  1
+10:12:50.354 [main] INFO  Loggertest.Test1 - WebDriver started
+10:12:50.359 [main] INFO  Loggertest.Test1 - Selenium actions completed
+10:12:50.359 [main] INFO  Loggertest.Test1 - WebDriver closed
+10:12:50.360 [main] INFO  Loggertest.Test1 - WebDriver started  1
+10:12:50.360 [main] INFO  Loggertest.Test1 - Selenium actions completed  1
+10:12:50.360 [main] INFO  Loggertest.Test1 - WebDriver closed  1

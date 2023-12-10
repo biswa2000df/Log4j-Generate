@@ -1,0 +1,97 @@
+[INFO ] 2023-12-10 10:16:14,552 Loggertest.Test1:16 - WebDriver started
+[INFO ] 2023-12-10 10:16:14,558 Loggertest.Test1:21 - Selenium actions completed
+[INFO ] 2023-12-10 10:16:14,558 Loggertest.Test1:24 - WebDriver closed
+[INFO ] 2023-12-10 10:16:14,558 Loggertest.Test1:7 - WebDriver started  1
+[INFO ] 2023-12-10 10:16:14,559 Loggertest.Test1:12 - Selenium actions completed  1
+[INFO ] 2023-12-10 10:16:14,559 Loggertest.Test1:15 - WebDriver closed  1
+[INFO ] 2023-12-10 10:16:28,805 Loggertest.Test1:16 - WebDriver started
+[INFO ] 2023-12-10 10:16:28,811 Loggertest.Test1:21 - Selenium actions completed
+[INFO ] 2023-12-10 10:16:28,811 Loggertest.Test1:24 - WebDriver closed
+[INFO ] 2023-12-10 10:16:28,812 Loggertest.Test1:7 - WebDriver started  1
+[INFO ] 2023-12-10 10:16:28,812 Loggertest.Test1:12 - Selenium actions completed  1
+[INFO ] 2023-12-10 10:16:28,813 Loggertest.Test1:15 - WebDriver closed  1
+[INFO ] 2023-12-10 10:31:27,390 Loggertest.Test1:67 - Logging to dynamically created file: logs/selenium_1702184487337.log
+[INFO ] 2023-12-10 10:31:27,399 Loggertest.Test1:22 - WebDriver started
+[INFO ] 2023-12-10 10:31:27,400 Loggertest.Test1:27 - Selenium actions completed
+[INFO ] 2023-12-10 10:31:27,400 Loggertest.Test1:30 - WebDriver closed
+[INFO ] 2023-12-10 10:31:27,401 Loggertest.Test1:7 - WebDriver started  1
+[INFO ] 2023-12-10 10:31:27,402 Loggertest.Test1:12 - Selenium actions completed  1
+[INFO ] 2023-12-10 10:31:27,402 Loggertest.Test1:15 - WebDriver closed  1
+[INFO ] 2023-12-10 10:31:45,073 Loggertest.Test1:67 - Logging to dynamically created file: logs/selenium_1702184505025.log
+[INFO ] 2023-12-10 10:31:45,080 Loggertest.Test1:22 - WebDriver started
+[INFO ] 2023-12-10 10:31:45,081 Loggertest.Test1:27 - Selenium actions completed
+[INFO ] 2023-12-10 10:31:45,082 Loggertest.Test1:30 - WebDriver closed
+[INFO ] 2023-12-10 10:31:45,083 Loggertest.Test1:7 - WebDriver started  1
+[INFO ] 2023-12-10 10:31:45,083 Loggertest.Test1:12 - Selenium actions completed  1
+[INFO ] 2023-12-10 10:31:45,083 Loggertest.Test1:15 - WebDriver closed  1
+[INFO ] 2023-12-10 10:31:58,881 Loggertest.Test1:67 - Logging to dynamically created file: logs/selenium_1702184518855.log
+[INFO ] 2023-12-10 10:31:58,887 Loggertest.Test1:22 - WebDriver started
+[INFO ] 2023-12-10 10:31:58,888 Loggertest.Test1:27 - Selenium actions completed
+[INFO ] 2023-12-10 10:31:58,888 Loggertest.Test1:30 - WebDriver closed
+[INFO ] 2023-12-10 10:31:58,889 Loggertest.Test1:7 - WebDriver started  1
+[INFO ] 2023-12-10 10:31:58,889 Loggertest.Test1:12 - Selenium actions completed  1
+[INFO ] 2023-12-10 10:31:58,890 Loggertest.Test1:15 - WebDriver closed  1
+[INFO ] 2023-12-10 10:34:08,423 Loggertest.Test1:70 - Logging to dynamically created file: logs/selenium_2023.log
+[INFO ] 2023-12-10 10:34:08,427 Loggertest.Test1:25 - WebDriver started
+[INFO ] 2023-12-10 10:34:08,428 Loggertest.Test1:30 - Selenium actions completed
+[INFO ] 2023-12-10 10:34:08,428 Loggertest.Test1:33 - WebDriver closed
+[INFO ] 2023-12-10 10:34:08,428 Loggertest.Test1:7 - WebDriver started  1
+[INFO ] 2023-12-10 10:34:08,429 Loggertest.Test1:12 - Selenium actions completed  1
+[INFO ] 2023-12-10 10:34:08,429 Loggertest.Test1:15 - WebDriver closed  1
+[INFO ] 2023-12-10 10:34:23,177 Loggertest.Test1:70 - Logging to dynamically created file: logs/selenium_2023.log
+[INFO ] 2023-12-10 10:34:23,182 Loggertest.Test1:25 - WebDriver started
+[INFO ] 2023-12-10 10:34:23,183 Loggertest.Test1:30 - Selenium actions completed
+[INFO ] 2023-12-10 10:34:23,183 Loggertest.Test1:33 - WebDriver closed
+[INFO ] 2023-12-10 10:34:23,183 Loggertest.Test1:7 - WebDriver started  1
+[INFO ] 2023-12-10 10:34:23,183 Loggertest.Test1:12 - Selenium actions completed  1
+[INFO ] 2023-12-10 10:34:23,184 Loggertest.Test1:15 - WebDriver closed  1
+[INFO ] 2023-12-10 10:37:45,537 Loggertest.Test1:70 - Logging to dynamically created file: logs/selenium_2023.log
+[INFO ] 2023-12-10 10:37:45,550 Loggertest.Test1:25 - WebDriver started
+[INFO ] 2023-12-10 10:37:45,551 Loggertest.Test1:30 - Selenium actions completed
+[INFO ] 2023-12-10 10:37:45,552 Loggertest.Test1:33 - WebDriver closed
+[INFO ] 2023-12-10 10:37:45,553 Loggertest.Test1:7 - WebDriver started  1
+[INFO ] 2023-12-10 10:37:45,553 Loggertest.Test1:12 - Selenium actions completed  1
+[INFO ] 2023-12-10 10:37:45,554 Loggertest.Test1:15 - WebDriver closed  1
+[INFO ] 2023-12-10 10:37:54,243 Loggertest.Test1:70 - Logging to dynamically created file: logs/selenium_2023.log
+[INFO ] 2023-12-10 10:37:54,253 Loggertest.Test1:25 - WebDriver started
+[INFO ] 2023-12-10 10:37:54,254 Loggertest.Test1:30 - Selenium actions completed
+[INFO ] 2023-12-10 10:37:54,254 Loggertest.Test1:33 - WebDriver closed
+[INFO ] 2023-12-10 10:37:54,255 Loggertest.Test1:7 - WebDriver started  1
+[INFO ] 2023-12-10 10:37:54,255 Loggertest.Test1:12 - Selenium actions completed  1
+[INFO ] 2023-12-10 10:37:54,256 Loggertest.Test1:15 - WebDriver closed  1
+[INFO ] 2023-12-10 10:39:36,074 Loggertest.Test1:71 - Logging to dynamically created file: logs/selenium_2023.log
+[INFO ] 2023-12-10 10:39:36,077 Loggertest.Test1:25 - WebDriver started
+[INFO ] 2023-12-10 10:39:36,078 Loggertest.Test1:30 - Selenium actions completed
+[INFO ] 2023-12-10 10:39:36,078 Loggertest.Test1:33 - WebDriver closed
+[INFO ] 2023-12-10 10:39:36,078 Loggertest.Test1:7 - WebDriver started  1
+[INFO ] 2023-12-10 10:39:36,079 Loggertest.Test1:12 - Selenium actions completed  1
+[INFO ] 2023-12-10 10:39:36,079 Loggertest.Test1:15 - WebDriver closed  1
+[INFO ] 2023-12-10 10:41:50,895 Loggertest.Test1:71 - Logging to dynamically created file: logs/selenium_2023.log
+[INFO ] 2023-12-10 10:41:50,899 Loggertest.Test1:25 - WebDriver started
+[INFO ] 2023-12-10 10:41:50,899 Loggertest.Test1:30 - Selenium actions completed
+[INFO ] 2023-12-10 10:41:50,899 Loggertest.Test1:33 - WebDriver closed
+[INFO ] 2023-12-10 10:41:50,900 Loggertest.Test1:7 - WebDriver started  1
+[INFO ] 2023-12-10 10:41:50,900 Loggertest.Test1:12 - Selenium actions completed  1
+[INFO ] 2023-12-10 10:41:50,900 Loggertest.Test1:15 - WebDriver closed  1
+[INFO ] 2023-12-10 11:45:41,436 Loggertest.Test1:72 - Logging to dynamically created file: logs/selenium_2023.log
+[INFO ] 2023-12-10 11:45:41,441 Loggertest.Test1:25 - WebDriver started
+[INFO ] 2023-12-10 11:45:41,441 Loggertest.Test1:30 - Selenium actions completed
+[INFO ] 2023-12-10 11:45:41,442 Loggertest.Test1:33 - WebDriver closed
+[INFO ] 2023-12-10 11:45:54,535 Loggertest.Test1:72 - Logging to dynamically created file: logs/selenium_2023.log
+[INFO ] 2023-12-10 11:45:54,539 Loggertest.Test1:25 - WebDriver started
+[INFO ] 2023-12-10 11:45:54,539 Loggertest.Test1:30 - Selenium actions completed
+[INFO ] 2023-12-10 11:45:54,540 Loggertest.Test1:33 - WebDriver closed
+[INFO ] 2023-12-10 11:46:28,882 Loggertest.Test1:72 - Logging to dynamically created file: logs/selenium_2023.log
+[INFO ] 2023-12-10 11:46:28,887 Loggertest.Test1:25 - WebDriver started
+[INFO ] 2023-12-10 11:46:28,887 Loggertest.Test1:30 - Selenium actions completed
+[INFO ] 2023-12-10 11:46:28,887 Loggertest.Test1:33 - WebDriver closed
+[INFO ] 2023-12-10 11:46:28,887 Loggertest.Test2:12 - WebDriver started  1
+[INFO ] 2023-12-10 11:46:28,888 Loggertest.Test2:17 - Selenium actions completed  1
+[INFO ] 2023-12-10 11:46:28,888 Loggertest.Test2:20 - WebDriver closed  1
+[INFO ] 2023-12-10 11:47:00,144 Loggertest.Test1:72 - Logging to dynamically created file: logs/selenium_2023.log
+[INFO ] 2023-12-10 11:47:00,148 Loggertest.Test1:25 - WebDriver started
+[INFO ] 2023-12-10 11:47:00,149 Loggertest.Test1:30 - Selenium actions completed
+[INFO ] 2023-12-10 11:47:00,149 Loggertest.Test1:33 - WebDriver closed
+[INFO ] 2023-12-10 11:47:00,150 Loggertest.Test2:12 - WebDriver started  1
+[INFO ] 2023-12-10 11:47:00,150 Loggertest.Test2:17 - Selenium actions completed  1
+[INFO ] 2023-12-10 11:47:00,151 Loggertest.Test2:20 - WebDriver closed  1
